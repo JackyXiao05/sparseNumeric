@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 ## sparseNumeric
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/JackyXiao05/sparseNumeric/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/JackyXiao05/sparseNumeric/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of 'sparseNumeric' is to provide an S4 class for representing sparse numeric vectors - that is, vectors that contain many zeros - and to turn the sparse-vector code from HW5 into a complete, well-documented R package.
