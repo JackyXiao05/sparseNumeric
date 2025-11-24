@@ -41,7 +41,7 @@ You can install the development version of sparseNumeric from Github:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("algodines/HW6_sparce_numeric")
+devtools::install_github("JackyXiao05/sparseNumeric")
 ```
 
 ## Example
